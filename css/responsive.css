@@ -1,0 +1,586 @@
+/* Responsive Design & Mobile Optimizations */
+
+/* Tablet View (768px - 1023px) */
+@media (max-width: 1023px) {
+  :root {
+    --gap: 16px;
+  }
+
+  .container {
+    padding: 0 var(--spacing-md);
+  }
+
+  #business-grid {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 16px;
+  }
+
+  .recommendation-grid {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  }
+
+  .home-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .sort-group {
+    width: 100%;
+  }
+
+  .sort-group select {
+    width: 100%;
+  }
+
+  .hero {
+    padding: var(--spacing-lg) var(--spacing-md);
+  }
+
+  .hero h1 {
+    font-size: var(--text-3xl);
+  }
+
+  .deals-section,
+  .reviews-section,
+  .trending-section,
+  .recommendation-section {
+    padding: var(--spacing-lg);
+  }
+
+  .analytics-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .radius-control {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .radius-slider {
+    width: 100%;
+  }
+
+  .location-info {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  h1 { font-size: var(--text-3xl); }
+  h2 { font-size: var(--text-2xl); }
+  h3 { font-size: var(--text-xl); }
+}
+
+/* Mobile View (640px - 767px) */
+@media (max-width: 767px) {
+  body {
+    padding: var(--spacing-sm);
+  }
+
+  :root {
+    --gap: 12px;
+  }
+
+  .container {
+    padding: 0 var(--spacing-sm);
+  }
+
+  #app {
+    padding: 0 var(--spacing-sm);
+  }
+
+  #business-grid {
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+
+  .business-card {
+    padding: 12px;
+  }
+
+  .business-card img {
+    height: 140px;
+    margin-bottom: 8px;
+  }
+
+  .recommendation-grid {
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 12px;
+  }
+
+  .home-header {
+    margin-bottom: 20px;
+  }
+
+  .home-header h1 {
+    font-size: 24px;
+  }
+
+  .hero {
+    padding: var(--spacing-lg) var(--spacing-md);
+    margin-bottom: var(--spacing-lg);
+  }
+
+  .hero h1 {
+    font-size: var(--text-2xl);
+    margin-bottom: var(--spacing-md);
+  }
+
+  .hero p {
+    font-size: var(--text-base);
+  }
+
+  .search-bar {
+    margin-top: var(--spacing-md);
+  }
+
+  .search-bar input {
+    padding: var(--spacing-sm) var(--spacing-md);
+  }
+
+  .deals-section,
+  .reviews-section,
+  .trending-section,
+  .recommendation-section {
+    padding: var(--spacing-lg);
+    margin-top: var(--spacing-lg);
+  }
+
+  .deals-section h2,
+  .reviews-section h2,
+  .trending-section h2 {
+    font-size: 20px;
+  }
+
+  .review-card {
+    padding: 12px;
+  }
+
+  .review-img {
+    height: 180px;
+  }
+
+  .trending-card {
+    padding: 12px 16px;
+    margin-bottom: 8px;
+  }
+
+  .trending-card h3 {
+    font-size: var(--text-base);
+    margin-bottom: 6px;
+  }
+
+  .trending-card p {
+    font-size: 0.85rem;
+  }
+
+  .button {
+    padding: var(--spacing-sm) var(--spacing-md);
+    font-size: var(--text-sm);
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  .button-large {
+    width: 100%;
+    min-height: 48px;
+  }
+
+  .sort-group {
+    width: 100%;
+    margin-top: var(--spacing-sm);
+  }
+
+  .sort-group select {
+    width: 100%;
+    padding: var(--spacing-sm) var(--spacing-md);
+  }
+
+  .location-search-container {
+    padding: var(--spacing-md);
+  }
+
+  .location-info {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .location-status {
+    width: 100%;
+  }
+
+  .radius-control {
+    width: 100%;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .radius-slider {
+    width: 100%;
+  }
+
+  .form-row {
+    margin-bottom: 14px;
+    gap: 6px;
+  }
+
+  .form-row input[type="text"],
+  .form-row textarea,
+  .form-row select {
+    padding: 10px 12px;
+    font-size: 16px; /* Prevents zoom on iOS */
+  }
+
+  .analytics-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .chart-container {
+    padding: 1rem;
+  }
+
+  h1 { font-size: var(--text-2xl); }
+  h2 { font-size: var(--text-xl); }
+  h3 { font-size: var(--text-lg); }
+
+  /* Admin responsive */
+  .admin-container {
+    padding: var(--spacing-md);
+  }
+
+  .admin-nav {
+    gap: 0.25rem;
+  }
+
+  .admin-tab-btn {
+    padding: 10px 12px;
+    font-size: 0.9rem;
+  }
+
+  .admin-content {
+    padding: var(--spacing-lg);
+  }
+
+  .admin-table {
+    font-size: 0.85rem;
+  }
+
+  .admin-table th,
+  .admin-table td {
+    padding: 0.75rem;
+  }
+
+  .admin-actions {
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .btn-sm {
+    width: 100%;
+  }
+}
+
+/* Small Mobile (480px - 639px) */
+@media (max-width: 639px) {
+  body {
+    padding: 8px;
+  }
+
+  #app {
+    padding: 0 4px;
+  }
+
+  #business-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .business-card {
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px;
+    text-align: left;
+  }
+
+  .business-card img {
+    width: 90px;
+    height: 90px;
+    margin-bottom: 0;
+    margin-right: 12px;
+    flex-shrink: 0;
+  }
+
+  .business-card > div {
+    flex: 1;
+  }
+
+  .recommendation-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero {
+    padding: var(--spacing-lg) var(--spacing-sm);
+    margin-bottom: var(--spacing-lg);
+  }
+
+  .hero h1 {
+    font-size: 20px;
+  }
+
+  .hero p {
+    font-size: 14px;
+  }
+
+  .hero::before {
+    width: 200px;
+    height: 200px;
+  }
+
+  .deals-section,
+  .reviews-section,
+  .trending-section,
+  .recommendation-section {
+    padding: var(--spacing-md);
+    margin-top: var(--spacing-md);
+  }
+
+  .review-card {
+    padding: 12px;
+  }
+
+  .review-card img {
+    height: 160px;
+  }
+
+  .review-rating {
+    font-size: 1.1rem;
+  }
+
+  .review-text {
+    font-size: 0.95rem;
+  }
+
+  .review-footer {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .review-date {
+    margin-left: 0;
+    align-self: flex-start;
+  }
+
+  .trending-card {
+    padding: 12px;
+  }
+
+  .button {
+    width: 100%;
+    min-height: 44px;
+    padding: 10px 16px;
+  }
+
+  .button-outline,
+  .button-secondary {
+    width: 100%;
+  }
+
+  .sort-group {
+    width: 100%;
+  }
+
+  .form-row {
+    gap: 6px;
+    margin-bottom: 12px;
+  }
+
+  .form-row label {
+    font-size: 0.95rem;
+  }
+
+  .form-row input[type="text"],
+  .form-row textarea,
+  .form-row select {
+    padding: 10px 12px;
+    font-size: 16px;
+  }
+
+  .admin-login-container {
+    padding: var(--spacing-lg);
+    margin: 2rem auto;
+  }
+
+  .admin-login-form {
+    gap: 12px;
+  }
+
+  .admin-login-form input {
+    font-size: 16px;
+  }
+
+  h1 { font-size: 20px; }
+  h2 { font-size: 18px; }
+  h3 { font-size: 16px; }
+  h4 { font-size: 15px; }
+
+  .text-sm { font-size: 0.8rem; }
+  .text-xs { font-size: 0.7rem; }
+}
+
+/* Extra Small (< 480px) */
+@media (max-width: 479px) {
+  body {
+    padding: 4px;
+  }
+
+  #app {
+    padding: 0;
+  }
+
+  #business-grid {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
+  .business-card {
+    padding: 8px;
+  }
+
+  .business-card img {
+    width: 70px;
+    height: 70px;
+    margin-right: 8px;
+  }
+
+  .hero {
+    padding: var(--spacing-md) var(--spacing-sm);
+    margin-bottom: var(--spacing-md);
+  }
+
+  .hero h1 {
+    font-size: 18px;
+    margin-bottom: var(--spacing-sm);
+  }
+
+  .search-bar {
+    margin-top: var(--spacing-sm);
+  }
+
+  .deals-section,
+  .reviews-section,
+  .trending-section,
+  .recommendation-section {
+    padding: var(--spacing-md);
+    margin-top: var(--spacing-md);
+  }
+
+  .home-header h1 {
+    font-size: 18px;
+  }
+
+  .button {
+    font-size: var(--text-xs);
+    padding: 8px 12px;
+    min-height: 40px;
+  }
+
+  .location-permission-prompt {
+    padding: 12px;
+  }
+
+  .form-row {
+    margin-bottom: 10px;
+  }
+
+  h1 { font-size: 18px; }
+  h2 { font-size: 16px; }
+  h3 { font-size: 14px; }
+}
+
+/* Touch Device Optimizations */
+@media (hover: none) and (pointer: coarse) {
+  /* Increase touch targets to 44px minimum */
+  button,
+  .button,
+  .btn-sm,
+  a,
+  .card,
+  .trending-card,
+  .business-card {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  /* Reduce hover effects on touch devices */
+  .business-card:hover {
+    transform: none;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .button:hover {
+    transform: none;
+  }
+
+  /* Improve touch feedback */
+  .business-card:active,
+  .button:active,
+  .trending-card:active {
+    opacity: 0.8;
+  }
+
+  /* Remove hover pseudo-elements on touch */
+  .business-card::before {
+    display: none;
+  }
+}
+
+/* Print Styles */
+@media print {
+  body {
+    background: white;
+  }
+
+  .button,
+  .location-search-container,
+  .admin-nav,
+  .sort-group {
+    display: none;
+  }
+
+  .business-card,
+  .review-card,
+  .recommendation-card {
+    box-shadow: none;
+    border: 1px solid #ccc;
+    page-break-inside: avoid;
+  }
+}
+
+/* High DPI Devices */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Dark Mode Support (for future implementation) */
+@media (prefers-color-scheme: dark) {
+  /* Can add dark mode styles here */
+}
+
+/* Reduced Motion Support */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  html {
+    scroll-behavior: auto;
+  }
+}

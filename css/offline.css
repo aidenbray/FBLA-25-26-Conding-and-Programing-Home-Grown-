@@ -1,0 +1,51 @@
+/* Offline Banner */
+#offline-banner {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #ff8800;
+    color: white;
+    text-align: center;
+    padding: 0.5rem;
+    font-size: 0.9rem;
+    z-index: 9999;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+#offline-banner.visible {
+    display: block;
+}
+
+/* Adjust main content when banner is visible if needed, 
+   but fixed position overlays content which is usually fine for a banner */
+
+/* Offline Page Styles */
+.offline-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    padding: 2rem;
+    background-color: #f9f9f9;
+}
+
+.offline-page h1 {
+    color: #ff8800;
+    margin-bottom: 1rem;
+}
+
+.offline-page p {
+    color: #666;
+    margin-bottom: 2rem;
+}
+
+.offline-icon {
+    width: 64px;
+    height: 64px;
+    margin-bottom: 1rem;
+    fill: #ccc;
+}

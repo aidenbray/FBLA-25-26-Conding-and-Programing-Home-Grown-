@@ -1,0 +1,23 @@
+[
+  {
+    "id": 501,
+    "businessId": 1,
+    "title": "20% Off Coffee",
+    "startDate": "2025-02-01",
+    "endDate": "2025-02-20"
+  },
+  {
+    "id": 502,
+    "businessId": 2,
+    "title": "Buy 1 Get 1 Bookmark",
+    "startDate": "2025-03-01",
+    "endDate": "2025-03-31"
+  },
+  {
+    "id": 503,
+    "businessId": 3,
+    "title": "Free Fitness Evaluation",
+    "startDate": "2025-04-01",
+    "endDate": "2025-04-20"
+  }
+]

@@ -1,0 +1,1061 @@
+[
+  {
+    "id": 101,
+    "businessId": 1,
+    "text": "Great atmosphere and amazing coffee. The barista really knows their craft!",
+    "rating": 5,
+    "likes": 42,
+    "comments": [
+      "Loved the latte art!",
+      "Best cappuccino in town"
+    ],
+    "image": "https://picsum.photos/seed/review101/100/100",
+    "date": "2025-02-15T10:30:00Z"
+  },
+  {
+    "id": 102,
+    "businessId": 1,
+    "text": "Cozy place to work. WiFi is reliable and pastries are fresh daily.",
+    "rating": 4,
+    "likes": 28,
+    "comments": [
+      "Would come back for the croissants"
+    ],
+    "image": "https://picsum.photos/seed/review102/100/100",
+    "date": "2025-02-14T14:15:00Z"
+  },
+  {
+    "id": 103,
+    "businessId": 1,
+    "text": "Perfect for a quick coffee break. Friendly staff and reasonable prices.",
+    "rating": 5,
+    "likes": 35,
+    "comments": [
+      "Staff is so helpful!"
+    ],
+    "image": "https://picsum.photos/seed/review103/100/100",
+    "date": "2025-02-13T09:45:00Z"
+  },
+  {
+    "id": 104,
+    "businessId": 1,
+    "text": "Love this caf\u00e9! Been coming here for 2 years now. Never disappoints.",
+    "rating": 5,
+    "likes": 51,
+    "comments": [
+      "Regular here!",
+      "My favorite spot"
+    ],
+    "image": "https://picsum.photos/seed/review104/100/100",
+    "date": "2025-02-12T11:00:00Z"
+  },
+  {
+    "id": 105,
+    "businessId": 2,
+    "text": "Incredible selection of books. Staff recommendations are spot on!",
+    "rating": 5,
+    "likes": 38,
+    "comments": [
+      "Found my new favorite author here"
+    ],
+    "image": "https://picsum.photos/seed/review105/100/100",
+    "date": "2025-02-14T16:20:00Z"
+  },
+  {
+    "id": 106,
+    "businessId": 2,
+    "text": "Beautiful bookstore with great events. Attended an author signing last month.",
+    "rating": 5,
+    "likes": 29,
+    "comments": [
+      "Author was amazing"
+    ],
+    "image": "https://picsum.photos/seed/review106/100/100",
+    "date": "2025-02-11T13:45:00Z"
+  },
+  {
+    "id": 107,
+    "businessId": 2,
+    "text": "Good variety but prices are a bit high. Still worth visiting though.",
+    "rating": 4,
+    "likes": 15,
+    "comments": [
+      "Independent bookstores have premium pricing"
+    ],
+    "image": "https://picsum.photos/seed/review107/100/100",
+    "date": "2025-02-10T10:30:00Z"
+  },
+  {
+    "id": 108,
+    "businessId": 2,
+    "text": "Cozy reading corners and knowledgeable staff. Best local bookstore!",
+    "rating": 5,
+    "likes": 44,
+    "comments": [
+      "They really care about books"
+    ],
+    "image": "https://picsum.photos/seed/review108/100/100",
+    "date": "2025-02-09T15:00:00Z"
+  },
+  {
+    "id": 109,
+    "businessId": 3,
+    "text": "Great gym with modern equipment. Trainers are really supportive.",
+    "rating": 5,
+    "likes": 36,
+    "comments": [
+      "Helped me reach my fitness goals"
+    ],
+    "image": "https://picsum.photos/seed/review109/100/100",
+    "date": "2025-02-13T18:30:00Z"
+  },
+  {
+    "id": 110,
+    "businessId": 3,
+    "text": "Clean facilities and friendly community atmosphere.",
+    "rating": 4,
+    "likes": 22,
+    "comments": [
+      "Nice people here"
+    ],
+    "image": "https://picsum.photos/seed/review110/100/100",
+    "date": "2025-02-12T17:15:00Z"
+  },
+  {
+    "id": 111,
+    "businessId": 3,
+    "text": "Good value for money. Classes are well-structured and motivating.",
+    "rating": 5,
+    "likes": 40,
+    "comments": [
+      "Best investment in health"
+    ],
+    "image": "https://picsum.photos/seed/review111/100/100",
+    "date": "2025-02-11T19:00:00Z"
+  },
+  {
+    "id": 112,
+    "businessId": 3,
+    "text": "Busy during peak hours but overall excellent facility.",
+    "rating": 4,
+    "likes": 18,
+    "comments": [
+      "Come early to avoid crowds"
+    ],
+    "image": "https://picsum.photos/seed/review112/100/100",
+    "date": "2025-02-08T20:00:00Z"
+  },
+  {
+    "id": 113,
+    "businessId": 4,
+    "text": "Fresh pastries every morning. The croissants are absolutely divine!",
+    "rating": 5,
+    "likes": 56,
+    "comments": [
+      "Can't get enough of their pastries!",
+      "Better than Paris"
+    ],
+    "image": "https://picsum.photos/seed/review113/100/100",
+    "date": "2025-02-15T08:00:00Z"
+  },
+  {
+    "id": 114,
+    "businessId": 4,
+    "text": "Organic ingredients taste amazing. Worth the drive!",
+    "rating": 5,
+    "likes": 32,
+    "comments": [
+      "Healthy never tasted so good"
+    ],
+    "image": "https://picsum.photos/seed/review114/100/100",
+    "date": "2025-02-14T09:30:00Z"
+  },
+  {
+    "id": 115,
+    "businessId": 4,
+    "text": "Slightly pricey but quality is unmatched.",
+    "rating": 4,
+    "likes": 24,
+    "comments": [
+      "You get what you pay for"
+    ],
+    "image": "https://picsum.photos/seed/review115/100/100",
+    "date": "2025-02-13T07:45:00Z"
+  },
+  {
+    "id": 116,
+    "businessId": 5,
+    "text": "Professional team that really understands digital marketing trends.",
+    "rating": 5,
+    "likes": 39,
+    "comments": [
+      "Grew my business significantly"
+    ],
+    "image": "https://picsum.photos/seed/review116/100/100",
+    "date": "2025-02-15T14:00:00Z"
+  },
+  {
+    "id": 117,
+    "businessId": 5,
+    "text": "Great results and excellent communication throughout the project.",
+    "rating": 5,
+    "likes": 33,
+    "comments": [
+      "Exceeded expectations"
+    ],
+    "image": "https://picsum.photos/seed/review117/100/100",
+    "date": "2025-02-14T11:30:00Z"
+  },
+  {
+    "id": 118,
+    "businessId": 5,
+    "text": "Creative solutions and responsive team. Highly recommend!",
+    "rating": 5,
+    "likes": 47,
+    "comments": [
+      "Our ROI doubled!"
+    ],
+    "image": "https://picsum.photos/seed/review118/100/100",
+    "date": "2025-02-12T13:15:00Z"
+  },
+  {
+    "id": 119,
+    "businessId": 6,
+    "text": "Beautiful arrangements and same-day delivery is lifesaver!",
+    "rating": 5,
+    "likes": 44,
+    "comments": [
+      "Saved my anniversary!"
+    ],
+    "image": "https://picsum.photos/seed/review119/100/100",
+    "date": "2025-02-15T16:45:00Z"
+  },
+  {
+    "id": 120,
+    "businessId": 6,
+    "text": "Fresh flowers that last a long time. Great customer service.",
+    "rating": 5,
+    "likes": 37,
+    "comments": [
+      "Flowers stayed fresh for 2 weeks!"
+    ],
+    "image": "https://picsum.photos/seed/review120/100/100",
+    "date": "2025-02-14T12:00:00Z"
+  },
+  {
+    "id": 121,
+    "businessId": 6,
+    "text": "Reasonable prices for the quality. Perfect for any occasion.",
+    "rating": 4,
+    "likes": 28,
+    "comments": [
+      "Great value"
+    ],
+    "image": "https://picsum.photos/seed/review121/100/100",
+    "date": "2025-02-13T14:20:00Z"
+  },
+  {
+    "id": 122,
+    "businessId": 7,
+    "text": "Most peaceful yoga experience. Instructor is very knowledgeable.",
+    "rating": 5,
+    "likes": 51,
+    "comments": [
+      "Found my inner peace!"
+    ],
+    "image": "https://picsum.photos/seed/review122/100/100",
+    "date": "2025-02-15T19:30:00Z"
+  },
+  {
+    "id": 123,
+    "businessId": 7,
+    "text": "Great community and supportive atmosphere. Classes are amazing.",
+    "rating": 5,
+    "likes": 43,
+    "comments": [
+      "Best yoga studio ever"
+    ],
+    "image": "https://picsum.photos/seed/review123/100/100",
+    "date": "2025-02-14T18:00:00Z"
+  },
+  {
+    "id": 124,
+    "businessId": 7,
+    "text": "Excellent for beginners. Instructors modify poses with care.",
+    "rating": 5,
+    "likes": 38,
+    "comments": [
+      "No judgment here"
+    ],
+    "image": "https://picsum.photos/seed/review124/100/100",
+    "date": "2025-02-13T19:00:00Z"
+  },
+  {
+    "id": 125,
+    "businessId": 7,
+    "text": "Beautiful studio with great energy. Worth every penny.",
+    "rating": 5,
+    "likes": 39,
+    "comments": [
+      "Subscribed for a year!"
+    ],
+    "image": "https://picsum.photos/seed/review125/100/100",
+    "date": "2025-02-12T17:45:00Z"
+  },
+  {
+    "id": 126,
+    "businessId": 8,
+    "text": "Fixed my phone in 2 hours. Honest pricing and excellent work.",
+    "rating": 5,
+    "likes": 34,
+    "comments": [
+      "Fair prices!"
+    ],
+    "image": "https://picsum.photos/seed/review126/100/100",
+    "date": "2025-02-15T15:30:00Z"
+  },
+  {
+    "id": 127,
+    "businessId": 8,
+    "text": "Friendly staff and they explain everything clearly.",
+    "rating": 4,
+    "likes": 26,
+    "comments": [
+      "Nice people"
+    ],
+    "image": "https://picsum.photos/seed/review127/100/100",
+    "date": "2025-02-14T16:00:00Z"
+  },
+  {
+    "id": 128,
+    "businessId": 8,
+    "text": "Reliable service. Got my laptop working again.",
+    "rating": 5,
+    "likes": 29,
+    "comments": [
+      "Great technicians"
+    ],
+    "image": "https://picsum.photos/seed/review128/100/100",
+    "date": "2025-02-13T14:45:00Z"
+  },
+  {
+    "id": 129,
+    "businessId": 9,
+    "text": "Authentic Thai food that tastes like Thailand! Amazing flavors.",
+    "rating": 5,
+    "likes": 48,
+    "comments": [
+      "Better than my trip to Bangkok!"
+    ],
+    "image": "https://picsum.photos/seed/review129/100/100",
+    "date": "2025-02-15T19:00:00Z"
+  },
+  {
+    "id": 130,
+    "businessId": 9,
+    "text": "Great portions and fresh ingredients. Tom Yum soup is perfection!",
+    "rating": 5,
+    "likes": 41,
+    "comments": [
+      "Will order again"
+    ],
+    "image": "https://picsum.photos/seed/review130/100/100",
+    "date": "2025-02-14T20:15:00Z"
+  },
+  {
+    "id": 131,
+    "businessId": 9,
+    "text": "Decent prices for quality Thai food. Friendly staff.",
+    "rating": 4,
+    "likes": 32,
+    "comments": [
+      "Good value"
+    ],
+    "image": "https://picsum.photos/seed/review131/100/100",
+    "date": "2025-02-13T18:45:00Z"
+  },
+  {
+    "id": 132,
+    "businessId": 10,
+    "text": "My hair has never looked better! Stylist is true artist.",
+    "rating": 5,
+    "likes": 55,
+    "comments": [
+      "Best haircut of my life!"
+    ],
+    "image": "https://picsum.photos/seed/review132/100/100",
+    "date": "2025-02-15T17:00:00Z"
+  },
+  {
+    "id": 133,
+    "businessId": 10,
+    "text": "Professional and attentive to detail. Worth the price.",
+    "rating": 5,
+    "likes": 37,
+    "comments": [
+      "Will come back for sure"
+    ],
+    "image": "https://picsum.photos/seed/review133/100/100",
+    "date": "2025-02-14T15:30:00Z"
+  },
+  {
+    "id": 134,
+    "businessId": 10,
+    "text": "Great atmosphere and quality service. Highly recommend.",
+    "rating": 5,
+    "likes": 43,
+    "comments": [
+      "My new favorite salon"
+    ],
+    "image": "https://picsum.photos/seed/review134/100/100",
+    "date": "2025-02-13T16:15:00Z"
+  },
+  {
+    "id": 135,
+    "businessId": 11,
+    "text": "Cozy atmosphere with great book selection. Love the reading nooks!",
+    "rating": 5,
+    "likes": 39,
+    "comments": [
+      "Perfect for a quiet afternoon"
+    ],
+    "image": "https://picsum.photos/seed/review135/100/100",
+    "date": "2025-02-15T14:30:00Z"
+  },
+  {
+    "id": 136,
+    "businessId": 11,
+    "text": "Book club meetings are wonderful. Met amazing book lovers here.",
+    "rating": 5,
+    "likes": 33,
+    "comments": [
+      "Great community"
+    ],
+    "image": "https://picsum.photos/seed/review136/100/100",
+    "date": "2025-02-14T13:45:00Z"
+  },
+  {
+    "id": 137,
+    "businessId": 11,
+    "text": "Good prices and friendly staff always help with recommendations.",
+    "rating": 4,
+    "likes": 28,
+    "comments": [
+      "Staff is knowledgeable"
+    ],
+    "image": "https://picsum.photos/seed/review137/100/100",
+    "date": "2025-02-12T15:00:00Z"
+  },
+  {
+    "id": 138,
+    "businessId": 12,
+    "text": "Organic coffee that tastes incredible. Eco-friendly too!",
+    "rating": 5,
+    "likes": 46,
+    "comments": [
+      "Best for the planet"
+    ],
+    "image": "https://picsum.photos/seed/review138/100/100",
+    "date": "2025-02-15T09:00:00Z"
+  },
+  {
+    "id": 139,
+    "businessId": 12,
+    "text": "Healthy snacks and great vibes. Perfect morning spot.",
+    "rating": 5,
+    "likes": 34,
+    "comments": [
+      "Sustainable and delicious"
+    ],
+    "image": "https://picsum.photos/seed/review139/100/100",
+    "date": "2025-02-14T08:30:00Z"
+  },
+  {
+    "id": 140,
+    "businessId": 12,
+    "text": "Staff is knowledgeable about ethical sourcing. Love this place!",
+    "rating": 5,
+    "likes": 41,
+    "comments": [
+      "Supporting good businesses"
+    ],
+    "image": "https://picsum.photos/seed/review140/100/100",
+    "date": "2025-02-13T10:15:00Z"
+  },
+  {
+    "id": 141,
+    "businessId": 13,
+    "text": "Best pilates class ever! Feel stronger already.",
+    "rating": 5,
+    "likes": 42,
+    "comments": [
+      "Transformed my body"
+    ],
+    "image": "https://picsum.photos/seed/review141/100/100",
+    "date": "2025-02-15T18:00:00Z"
+  },
+  {
+    "id": 142,
+    "businessId": 13,
+    "text": "Instructors are patient and attentive to form. Highly qualified.",
+    "rating": 5,
+    "likes": 38,
+    "comments": [
+      "Professional instructors"
+    ],
+    "image": "https://picsum.photos/seed/review142/100/100",
+    "date": "2025-02-14T17:30:00Z"
+  },
+  {
+    "id": 143,
+    "businessId": 13,
+    "text": "Great equipment and clean facilities. Love the atmosphere.",
+    "rating": 5,
+    "likes": 45,
+    "comments": [
+      "Wish I found this sooner"
+    ],
+    "image": "https://picsum.photos/seed/review143/100/100",
+    "date": "2025-02-13T17:00:00Z"
+  },
+  {
+    "id": 144,
+    "businessId": 14,
+    "text": "Their espresso is out of this world. Fresh roasted daily!",
+    "rating": 5,
+    "likes": 52,
+    "comments": [
+      "Best coffee I've had"
+    ],
+    "image": "https://picsum.photos/seed/review144/100/100",
+    "date": "2025-02-15T10:30:00Z"
+  },
+  {
+    "id": 145,
+    "businessId": 14,
+    "text": "Support local roasters with amazing quality beans.",
+    "rating": 5,
+    "likes": 37,
+    "comments": [
+      "Tastes like perfection"
+    ],
+    "image": "https://picsum.photos/seed/review145/100/100",
+    "date": "2025-02-14T10:00:00Z"
+  },
+  {
+    "id": 146,
+    "businessId": 14,
+    "text": "Staff is passionate about coffee. Great education about origins.",
+    "rating": 5,
+    "likes": 39,
+    "comments": [
+      "Learn while you sip"
+    ],
+    "image": "https://picsum.photos/seed/review146/100/100",
+    "date": "2025-02-13T09:45:00Z"
+  },
+  {
+    "id": 147,
+    "businessId": 15,
+    "text": "Spa day felt like heaven. Massage was incredibly relaxing.",
+    "rating": 5,
+    "likes": 48,
+    "comments": [
+      "Total pampering"
+    ],
+    "image": "https://picsum.photos/seed/review147/100/100",
+    "date": "2025-02-15T15:00:00Z"
+  },
+  {
+    "id": 148,
+    "businessId": 15,
+    "text": "Professional therapists with magic hands. Highly recommend!",
+    "rating": 5,
+    "likes": 44,
+    "comments": [
+      "Best massage ever"
+    ],
+    "image": "https://picsum.photos/seed/review148/100/100",
+    "date": "2025-02-14T14:30:00Z"
+  },
+  {
+    "id": 149,
+    "businessId": 15,
+    "text": "Beautiful ambiance and wonderful treatments. Worth the splurge.",
+    "rating": 5,
+    "likes": 41,
+    "comments": [
+      "Treat yourself here"
+    ],
+    "image": "https://picsum.photos/seed/review149/100/100",
+    "date": "2025-02-13T15:45:00Z"
+  },
+  {
+    "id": 150,
+    "businessId": 16,
+    "text": "Amazing collection of vintage records. Found rare gems here!",
+    "rating": 5,
+    "likes": 36,
+    "comments": [
+      "Music lover's paradise"
+    ],
+    "image": "https://picsum.photos/seed/review150/100/100",
+    "date": "2025-02-15T13:15:00Z"
+  },
+  {
+    "id": 151,
+    "businessId": 16,
+    "text": "Owner is knowledgeable and passionate about vinyl. Great vibe.",
+    "rating": 5,
+    "likes": 32,
+    "comments": [
+      "Authentic music store"
+    ],
+    "image": "https://picsum.photos/seed/review151/100/100",
+    "date": "2025-02-14T12:30:00Z"
+  },
+  {
+    "id": 152,
+    "businessId": 16,
+    "text": "Fair prices for rare records. Must visit for collectors!",
+    "rating": 4,
+    "likes": 27,
+    "comments": [
+      "Worth a trip"
+    ],
+    "image": "https://picsum.photos/seed/review152/100/100",
+    "date": "2025-02-13T13:00:00Z"
+  },
+  {
+    "id": 153,
+    "businessId": 17,
+    "text": "Pizza crust is perfectly crispy. Toppings are so fresh!",
+    "rating": 5,
+    "likes": 47,
+    "comments": [
+      "Best pizza in town!"
+    ],
+    "image": "https://picsum.photos/seed/review153/100/100",
+    "date": "2025-02-15T20:00:00Z"
+  },
+  {
+    "id": 154,
+    "businessId": 17,
+    "text": "Authentic Italian flavors. Worth the wait for seating.",
+    "rating": 4,
+    "likes": 33,
+    "comments": [
+      "Come early"
+    ],
+    "image": "https://picsum.photos/seed/review154/100/100",
+    "date": "2025-02-14T19:30:00Z"
+  },
+  {
+    "id": 155,
+    "businessId": 17,
+    "text": "Great wood-fired pizza with imported ingredients. Excellent!",
+    "rating": 5,
+    "likes": 40,
+    "comments": [
+      "Imported authenticity"
+    ],
+    "image": "https://picsum.photos/seed/review155/100/100",
+    "date": "2025-02-13T19:45:00Z"
+  },
+  {
+    "id": 156,
+    "businessId": 18,
+    "text": "Amazing coding bootcamp! Got a job immediately after.",
+    "rating": 5,
+    "likes": 51,
+    "comments": [
+      "Life-changing program!"
+    ],
+    "image": "https://picsum.photos/seed/review156/100/100",
+    "date": "2025-02-15T16:30:00Z"
+  },
+  {
+    "id": 157,
+    "businessId": 18,
+    "text": "Instructors are industry professionals. Learned so much!",
+    "rating": 5,
+    "likes": 43,
+    "comments": [
+      "Top-notch education"
+    ],
+    "image": "https://picsum.photos/seed/review157/100/100",
+    "date": "2025-02-14T15:00:00Z"
+  },
+  {
+    "id": 158,
+    "businessId": 18,
+    "text": "Job placement support is excellent. Career path is clear.",
+    "rating": 5,
+    "likes": 45,
+    "comments": [
+      "Worth the investment"
+    ],
+    "image": "https://picsum.photos/seed/review158/100/100",
+    "date": "2025-02-13T14:15:00Z"
+  },
+  {
+    "id": 159,
+    "businessId": 19,
+    "text": "Organic produce is super fresh. Love supporting local farmers.",
+    "rating": 5,
+    "likes": 38,
+    "comments": [
+      "Farm fresh"
+    ],
+    "image": "https://picsum.photos/seed/review159/100/100",
+    "date": "2025-02-15T11:45:00Z"
+  },
+  {
+    "id": 160,
+    "businessId": 19,
+    "text": "Great selection of natural products. Staff knows their stuff.",
+    "rating": 5,
+    "likes": 35,
+    "comments": [
+      "Informed staff"
+    ],
+    "image": "https://picsum.photos/seed/review160/100/100",
+    "date": "2025-02-14T11:00:00Z"
+  },
+  {
+    "id": 161,
+    "businessId": 19,
+    "text": "Fair prices for organic quality. Conveniently located.",
+    "rating": 4,
+    "likes": 29,
+    "comments": [
+      "Good prices"
+    ],
+    "image": "https://picsum.photos/seed/review161/100/100",
+    "date": "2025-02-13T10:30:00Z"
+  },
+  {
+    "id": 162,
+    "businessId": 20,
+    "text": "My pup came out looking gorgeous! Professional grooming.",
+    "rating": 5,
+    "likes": 49,
+    "comments": [
+      "Fluffy loves it!"
+    ],
+    "image": "https://picsum.photos/seed/review162/100/100",
+    "date": "2025-02-15T14:00:00Z"
+  },
+  {
+    "id": 163,
+    "businessId": 20,
+    "text": "Gentle handling and luxurious treatments for my dog.",
+    "rating": 5,
+    "likes": 41,
+    "comments": [
+      "Pup is pampered!"
+    ],
+    "image": "https://picsum.photos/seed/review163/100/100",
+    "date": "2025-02-14T13:00:00Z"
+  },
+  {
+    "id": 164,
+    "businessId": 20,
+    "text": "Staff genuinely loves animals. Best grooming experience.",
+    "rating": 5,
+    "likes": 43,
+    "comments": [
+      "Pet paradise"
+    ],
+    "image": "https://picsum.photos/seed/review164/100/100",
+    "date": "2025-02-13T12:30:00Z"
+  },
+  {
+    "id": 165,
+    "businessId": 21,
+    "text": "Amazing contemporary art collection. Gallery is beautifully curated.",
+    "rating": 5,
+    "likes": 37,
+    "comments": [
+      "Inspiring works"
+    ],
+    "image": "https://picsum.photos/seed/review165/100/100",
+    "date": "2025-02-15T12:00:00Z"
+  },
+  {
+    "id": 166,
+    "businessId": 21,
+    "text": "Gallery owners are passionate about art. Great atmosphere.",
+    "rating": 5,
+    "likes": 32,
+    "comments": [
+      "Art lovers unite"
+    ],
+    "image": "https://picsum.photos/seed/review166/100/100",
+    "date": "2025-02-14T11:15:00Z"
+  },
+  {
+    "id": 167,
+    "businessId": 21,
+    "text": "Featuring diverse artists. Love supporting local talent.",
+    "rating": 4,
+    "likes": 28,
+    "comments": [
+      "Local artists rock"
+    ],
+    "image": "https://picsum.photos/seed/review167/100/100",
+    "date": "2025-02-13T10:45:00Z"
+  },
+  {
+    "id": 168,
+    "businessId": 22,
+    "text": "Personal training changed my fitness journey! Highly qualified coaches.",
+    "rating": 5,
+    "likes": 46,
+    "comments": [
+      "Worth every penny"
+    ],
+    "image": "https://picsum.photos/seed/review168/100/100",
+    "date": "2025-02-15T19:30:00Z"
+  },
+  {
+    "id": 169,
+    "businessId": 22,
+    "text": "Nutrition guidance included. Holistic fitness approach.",
+    "rating": 5,
+    "likes": 39,
+    "comments": [
+      "Complete package"
+    ],
+    "image": "https://picsum.photos/seed/review169/100/100",
+    "date": "2025-02-14T18:45:00Z"
+  },
+  {
+    "id": 170,
+    "businessId": 22,
+    "text": "Results are incredible. Trainers really care about your goals.",
+    "rating": 5,
+    "likes": 44,
+    "comments": [
+      "Reached my target weight!"
+    ],
+    "image": "https://picsum.photos/seed/review170/100/100",
+    "date": "2025-02-13T18:15:00Z"
+  },
+  {
+    "id": 171,
+    "businessId": 23,
+    "text": "Artisan cheeses are incredible. Staff recommendations are perfect.",
+    "rating": 5,
+    "likes": 43,
+    "comments": [
+      "Cheese paradise"
+    ],
+    "image": "https://picsum.photos/seed/review171/100/100",
+    "date": "2025-02-15T17:45:00Z"
+  },
+  {
+    "id": 172,
+    "businessId": 23,
+    "text": "Local and imported varieties. Educational tasting sessions!",
+    "rating": 5,
+    "likes": 36,
+    "comments": [
+      "Learn about cheese"
+    ],
+    "image": "https://picsum.photos/seed/review172/100/100",
+    "date": "2025-02-14T17:00:00Z"
+  },
+  {
+    "id": 173,
+    "businessId": 23,
+    "text": "Quality is exceptional. Worth the splurge for special occasions.",
+    "rating": 5,
+    "likes": 38,
+    "comments": [
+      "Perfect for entertaining"
+    ],
+    "image": "https://picsum.photos/seed/review173/100/100",
+    "date": "2025-02-13T16:30:00Z"
+  },
+  {
+    "id": 174,
+    "businessId": 24,
+    "text": "Professional photographer with excellent portfolio. Highly skilled!",
+    "rating": 5,
+    "likes": 50,
+    "comments": [
+      "My photos are stunning!"
+    ],
+    "image": "https://picsum.photos/seed/review174/100/100",
+    "date": "2025-02-15T15:30:00Z"
+  },
+  {
+    "id": 175,
+    "businessId": 24,
+    "text": "Captured the essence of our wedding perfectly!",
+    "rating": 5,
+    "likes": 45,
+    "comments": [
+      "Best decision ever"
+    ],
+    "image": "https://picsum.photos/seed/review175/100/100",
+    "date": "2025-02-14T14:45:00Z"
+  },
+  {
+    "id": 176,
+    "businessId": 24,
+    "text": "Professional service and creative vision. Amazing results!",
+    "rating": 5,
+    "likes": 42,
+    "comments": [
+      "Memories preserved"
+    ],
+    "image": "https://picsum.photos/seed/review176/100/100",
+    "date": "2025-02-13T14:00:00Z"
+  },
+  {
+    "id": 177,
+    "businessId": 25,
+    "text": "Craft beer selection is outstanding. Knowledgeable bartenders!",
+    "rating": 5,
+    "likes": 41,
+    "comments": [
+      "Beer heaven"
+    ],
+    "image": "https://picsum.photos/seed/review177/100/100",
+    "date": "2025-02-15T21:00:00Z"
+  },
+  {
+    "id": 178,
+    "businessId": 25,
+    "text": "Great atmosphere and friendly crowd. Perfect hangout spot.",
+    "rating": 4,
+    "likes": 34,
+    "comments": [
+      "Good vibes"
+    ],
+    "image": "https://picsum.photos/seed/review178/100/100",
+    "date": "2025-02-14T20:30:00Z"
+  },
+  {
+    "id": 179,
+    "businessId": 25,
+    "text": "Try their seasonal brews! Staff really knows their stuff.",
+    "rating": 5,
+    "likes": 38,
+    "comments": [
+      "Hidden gem"
+    ],
+    "image": "https://picsum.photos/seed/review179/100/100",
+    "date": "2025-02-13T20:15:00Z"
+  },
+  {
+    "id": 180,
+    "businessId": 26,
+    "text": "Sustainable fashion that doesn't compromise on style!",
+    "rating": 5,
+    "likes": 44,
+    "comments": [
+      "Guilt-free shopping"
+    ],
+    "image": "https://picsum.photos/seed/review180/100/100",
+    "date": "2025-02-15T13:30:00Z"
+  },
+  {
+    "id": 181,
+    "businessId": 26,
+    "text": "Ethically sourced clothing with great designs. Love this store!",
+    "rating": 5,
+    "likes": 37,
+    "comments": [
+      "Supporting good"
+    ],
+    "image": "https://picsum.photos/seed/review181/100/100",
+    "date": "2025-02-14T12:45:00Z"
+  },
+  {
+    "id": 182,
+    "businessId": 26,
+    "text": "Quality fabrics and affordable prices. Perfect combination!",
+    "rating": 5,
+    "likes": 40,
+    "comments": [
+      "Budget-friendly"
+    ],
+    "image": "https://picsum.photos/seed/review182/100/100",
+    "date": "2025-02-13T12:00:00Z"
+  },
+  {
+    "id": 183,
+    "businessId": 27,
+    "text": "Caring dentists that make you feel comfortable. No pain!",
+    "rating": 5,
+    "likes": 49,
+    "comments": [
+      "Finally found a dentist I like"
+    ],
+    "image": "https://picsum.photos/seed/review183/100/100",
+    "date": "2025-02-15T14:15:00Z"
+  },
+  {
+    "id": 184,
+    "businessId": 27,
+    "text": "Holistic dental approach with genuine care for wellness.",
+    "rating": 5,
+    "likes": 42,
+    "comments": [
+      "Patient-centered"
+    ],
+    "image": "https://picsum.photos/seed/review184/100/100",
+    "date": "2025-02-14T13:30:00Z"
+  },
+  {
+    "id": 185,
+    "businessId": 27,
+    "text": "Modern facilities and experienced dentists. Highly recommend!",
+    "rating": 5,
+    "likes": 43,
+    "comments": [
+      "Best dental care"
+    ],
+    "image": "https://picsum.photos/seed/review185/100/100",
+    "date": "2025-02-13T12:45:00Z"
+  },
+  {
+    "id": 186,
+    "businessId": 28,
+    "text": "Custom jewelry is a work of art. Absolutely beautiful!",
+    "rating": 5,
+    "likes": 46,
+    "comments": [
+      "Masterpiece"
+    ],
+    "image": "https://picsum.photos/seed/review186/100/100",
+    "date": "2025-02-15T16:15:00Z"
+  },
+  {
+    "id": 187,
+    "businessId": 28,
+    "text": "Unique designs and quality craftsmanship. One-of-a-kind pieces!",
+    "rating": 5,
+    "likes": 39,
+    "comments": [
+      "Perfect engagement ring"
+    ],
+    "image": "https://picsum.photos/seed/review187/100/100",
+    "date": "2025-02-14T15:30:00Z"
+  },
+  {
+    "id": 188,
+    "businessId": 28,
+    "text": "Fair prices for handmade jewelry. Studio is welcoming.",
+    "rating": 5,
+    "likes": 35,
+    "comments": [
+      "Will return"
+    ],
+    "image": "https://picsum.photos/seed/review188/100/100",
+    "date": "2025-02-13T14:45:00Z"
+  }
+]

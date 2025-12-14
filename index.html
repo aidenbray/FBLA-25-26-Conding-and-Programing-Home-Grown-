@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<!-- 
+  Byte-Sized Business Boost - Main Application Entry Point
+  
+  This is the main HTML file that serves as the entry point for the Single Page Application (SPA).
+  It provides a minimal shell that is dynamically populated by JavaScript using a routing system.
+  
+  Key Features:
+  - Progressive Web App (PWA) support with service worker and manifest
+  - Performance optimized with CSS preloading
+  - ES6 module architecture for modern JavaScript support
+  - Responsive viewport configuration for mobile devices
+  - Apple iOS web app capabilities
+-->
+<html lang="en">
+<head>
+  <!-- Character encoding for proper text rendering -->
+  <meta charset="UTF-8" />
+  
+  <!-- Responsive viewport configuration for mobile-first design -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <!-- Preload critical CSS for faster initial render -->
+  <link rel="preload" href="/build/styles.min.css" as="style">
+  
+  <!-- Main stylesheet (bundled and minified for production) -->
+  <link rel="stylesheet" href="build/styles.min.css" />
+  
+  <!-- PWA manifest for installability and app configuration -->
+  <link rel="manifest" href="/manifest.json">
+  
+  <!-- Enable standalone mode on iOS devices -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  
+  <!-- iOS home screen icon -->
+  <link rel="apple-touch-icon" href="/assets/icons/icon.svg">
+  
+  <!-- Application title displayed in browser tab -->
+  <title>Byte-Sized Business Boost</title>
+</head>
+
+<body>
+  <!-- Main application container - dynamically populated by JavaScript router -->
+  <div id="app" class="container"></div>
+  
+  <!-- Chatbot widget container - positioned independently from main content -->
+  <div id="chatbot-container"></div>
+
+  <!-- 
+    Main JavaScript entry point loaded as ES6 module
+    - type="module" enables ES6 import/export syntax
+    - Automatically deferred (executes after DOM parsing)
+    - Initializes router, chatbot, and service worker
+  -->
+  <script type="module" src="/js/main.js"></script>
+</body>
+</html>
